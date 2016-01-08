@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listUnit2Jrai">
+        <item>Sa	/Sa/</item>
+        <item>Dua	/Toa/</item>
+        <item>Tlâo	/Tờ-lâu/</item>
+        <item>Pă	/Pá/</item>
+        <item>Rơma	/Rờ-ma/</item>
+        <item>Nam	/Nam/</item>
+        <item>Tơjuh	/Tờ-dú/</item>
+        <item>}ơpan	/Chờ-pan/</item>
+        <item>Duarơpan	/Toa-rờ-pan/</item>
+        <item>Hơpluh	/Hơ-pờ-lú/</item>
+        <item>Pluh sa	/Pờ-lú sa/</item>
+        <item>Pluh dua	/Pờ-lú toa/</item>
+        <item>Pluh rơma	/Pờ-lú rờ-ma/</item>
+        <item>Pluh duarơpan	/Pờ-lú toa-rờ-pan/</item>
+        <item>Dua pluh	/Toa pờ-lú/</item>
+        <item>Dua pluh tlâo	/Toa pờ-lú tờ-lâu/</item>
+        <item>Dua pluh nam	/Toa pờ-lú nam/</item>
+        <item>Dua pluh cơpan	/Toa pờ-lú chờ-pan/</item>
+        <item>Dua pluh duarơpan	/Toa pờ-lú toa-rờ-pan/</item>
+        <item>Tlâo pluh	/Toa pờ-lú/</item>
+        <item>Pă pluh	/Pá pờ-lú/</item>
+        <item>Rơma pluh	/Rơ-ma pờ-lú/</item>
+        <item>Nam pluh	/Nam pờ-lú/</item>
+        <item>Tơjuh pluh	/Tờ-dú pờ-lú/</item>
+        <item>}ơpan pluh	/Chờ-pan pờ-lú/</item>
+        <item>Duarơpan pluh	/Toa rờ-pan pờ-lú/</item>
+        <item>Sa rơtuh	/Sa rờ-tú/</item>
+        <item>Dua rơtuh	/Toa rờ-tú/</item>
+        <item>Tlâo rơtuh	/Tờ-lâu rờ-tú/</item>
+        <item>Pă rơtuh	/Pá rờ-tú/</item>
+        <item>Rơma rơtuh	/Rơ-ma rờ-tú/</item>
+        <item>Nam rơtuh	/Nam rờ-tú/</item>
+        <item>}ơ pan rơtuh	/Chờ-pan rờ-tú/</item>
+        <item>Sa rơbâo	/Sa rơ-bâu/</item>
+        <item>Sa rơban	/Sa rờ-ban/</item>
+        <item>Sa klak	/Sa cờ-lắc/</item>
+        <item>Sa klai	/Sa cờ-lai/</item>
+        <item>Hơdum	/Hơ-tum/</item>
+        <item>Thun	/Thun/</item>
+        <item>Thun anai	/Thun-anai/</item>
+        <item>Laih	/Lái/</item>
+        <item>Ah	/Á/</item>
+        <item>Hơdum thun laih ih ayong?	/Hơ-dum thun lái í a-dong?/</item>
+        <item>Hơdum thun laih ih amai?	/Hơ-dum thun lái í a-mai?/</item>
+        <item>Hơdum thun laih ih ơi?	/Hơ-dum thun lái í ơi?/</item>
+        <item>Amí, ama ih hơdum thun laih?	/a-mí, a-ma í hơ-dum thun lái?/</item>
+        <item>]ô	/chô/</item>
+        <item>mâo	/mâu/</item>
+        <item>mơnuih	/mơ-núi/</item>
+        <item>Sang ano#	/Sàn a-nố/</item>
+        <item>Sang ano# ih mâo hơdum ]ô mơnuih?	/Sang a-nố í mâu hơ-tum chô mơ-núi?/</item>
+        <item>Ih mâo hơdum sop hră cih?	/Í mâu hơ-tum sóp hờ-rá chí?/</item>
+        <item>Sang ih mâo hơdum drơi kơbao?	/Sang í mâu hơ-tum tờ-rơi k ơ-bao/</item>
+        <item>Hră cih	/Hờ-rá chí/</item>
+        <item>Hơdrôm hră	/Hờ-đờ-rôm hờ-rá/</item>
+        <item>Kơbao	/K ơ-bao/</item>
+        <item>Rơmô	/Rơ-mô/</item>
+        <item>Bê	/Bê/</item>
+        <item>Mơnu	/Mờ-nú/</item>
+        <item>Uh/bơbui	/Un/bờ-bui/</item>
+        <item>Bip	/Bip/</item>
+        <item>Asâo	/a-sâu/</item>
+        <item>Rơdêh	/Rờ-té/</item>
+        <item>Gai ]ih	/Gai chí/</item>
+        <item>Hră	/Hơ-rá/</item>
+        <item>Bôh	/Bố/</item>
+        <item>{e	/Bé/</item>
+        <item>Drơi	/Đờ-rơi/</item>
+        <item>Sop	/Sóp/</item>
+        <item>Arat	/a-rat/</item>
+        <item>Pok	/Poóc/</item>
+        <item>blah	/Bờ-lá/</item>
+    </string-array>
+    <string-array name="listUnit2VN">
+        <item>Một</item>
+        <item>Hai</item>
+        <item>Ba</item>
+        <item>Bốn</item>
+        <item>Năm</item>
+        <item>Sáu</item>
+        <item>Bảy</item>
+        <item>Tám</item>
+        <item>Chín</item>
+        <item>Mười</item>
+        <item>Mười một</item>
+        <item>Mười hai</item>
+        <item>Mười lăm</item>
+        <item>Mười chín</item>
+        <item>Hai mươi</item>
+        <item>Hai mươi ba</item>
+        <item>Hai mươi sáu</item>
+        <item>Hai mươi tám</item>
+        <item>Hai mươi chín</item>
+        <item>Ba mươi</item>
+        <item>Bốn mươi</item>
+        <item>Năm mươi</item>
+        <item>Sáu mươi</item>
+        <item>Bảy mươi</item>
+        <item>Tám mươi</item>
+        <item>Chín mươi</item>
+        <item>Một trăm</item>
+        <item>Hai trăm</item>
+        <item>Ba trăm</item>
+        <item>Bốn trăm</item>
+        <item>Năm trăm</item>
+        <item>Sáu trăm</item>
+        <item>Tám trăm</item>
+        <item>Một nghìn</item>
+        <item>Một vạn</item>
+        <item>Một triệu</item>
+        <item>Một tỉ</item>
+        <item>Bao nhiêu</item>
+        <item>Năm (tuổi)</item>
+        <item>Năm nay</item>
+        <item>Rồi</item>
+        <item>Ạ (từ đệm thân mật)</item>
+        <item>- anh bao nhiêu tuổi rồi?</item>
+        <item>- chị bao nhiêu tuổi rồi?</item>
+        <item>- ông bao nhiêu tuổi rồi?</item>
+        <item>- mẹ, ba em bao nhiêu tuổi rồi?</item>
+        <item>Người (đơn vị chỉ cá thể người)</item>
+        <item>- Có</item>
+        <item>- Người</item>
+        <item>- Gia đình</item>
+        <item>- Gia đình em có mấy người?</item>
+        <item>Bạn vó mấy quyển vở?</item>
+        <item>Nhà em có mấy con trâu?</item>
+        <item>Vở</item>
+        <item>Sách</item>
+        <item>Con trâu</item>
+        <item>Con bò</item>
+        <item>Con dê</item>
+        <item>Con gà</item>
+        <item>Con heo/con lợn</item>
+        <item>Con vịt</item>
+        <item>Con chó</item>
+        <item>Xe</item>
+        <item>Cây bút</item>
+        <item>Vở</item>
+        <item>Cái, chiếc (đơn vị cá thể)</item>
+        <item>Cây (đơn vị cá thể)</item>
+        <item>Con (đơn vị động vật)</item>
+        <item>Quyển (đơn vị cá thể sách vở)</item>
+        <item>Sợi (đơn vị cá thể dây, sợi)</item>
+        <item>Tờ, tấm (đơn vị cá thể)</item>
+        <item>(đơn vị cá thể quần, áo, chăn, màn, chiếu)</item>
+    </string-array>
+</resources>
