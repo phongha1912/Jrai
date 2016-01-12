@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Learn Jrai</string>
+
+    <string name="main_button">BẮT ĐẦU</string>
+    <string name="main_content">TỰ HỌC\nTIẾNG JRAI</string>
+    <string name="title_activity_units">Units</string>
+    <string name="title_activity_unit">Unit</string>
+</resources>

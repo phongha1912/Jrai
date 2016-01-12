@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listUnitsJrai">
+        <item>Bài 1: Pơjuăt</item>
+        <item>Bài 2: Mrôyap</item>
+        <item>Bài 3: Iâo anan</item>
+        <item>Bài 4: Gơnam yua hrăm hră</item>
+        <item>Bài 5: Bơwih bơwon amăng anih hrăm </item>
+        <item>Bài 6: Bruă hrăm hră</item>
+        <item>Bài 7: Pơ-agaih hrăm</item>
+        <item>Bài 8: Gơnam buh hơ-ô</item>
+        <item>Bài 9: Điêm, bôh than hrăm hră</item>
+        <item>Bài 10: Tơlơi min hrăm hră</item>
+        <item>Bài 11: Pơta\ pơta\\n</item>
+        <item>Bài 12: Hrơi mông</item>
+        <item>Bài 13: Hrăm mă pô</item>
+        <item>Bài 14: Pơ-agaih drơi jan</item>
+        <item>Bài 15: Kih rơmet anih do#</item>
+        <item>Bài 16: Pơtop drơi jan</item>
+        <item>Bài 17: Tơ lơi ngui pơtop drơi jan</item>
+        <item>Bài 18: Ngui ngor</item>
+        <item>Bài 19: {ong huă</item>
+        <item>Bài 20: Tơ lơi agaih [ong huă</item>
+        <item>Bài 21: Adôh suang</item>
+        <item>Bài 22: Gownam mơ’i adôh suang</item>
+        <item>Bài 23: Pơhiam dron sang hră</item>
+        <item>Bài 24: A’ am tam hang bôh ]rôh</item>
+        <item>Bài 25: Rông mơnong mơnuă</item>
+        <item>Bài 26: Pran ai</item>
+        <item>Bài 27: Hơdrăi pơgang tơlơi ruă</item>
+        <item>Bài 28: Pơgang lâo dum tơlơi sat khul mơnuih</item>
+        <item>Bài 29: Pơgang hlâo rơka rơka], le\ amăng ia</item>
+        <item>Bài 30: Ngă tui tơlơi pơkă</item>
+        <item>Bài 31: Hyuh adai</item>
+        <item>Bài 32: Yan</item>
+        <item>Bài 33: Anan dum phun kyâo pla</item>
+        <item>Bài 34: Tơlơi phian</item>
+        <item>Bài 35: Sang kơlông jrai</item>
+        <item>Bài 36: Tơlơi juăt</item>
+        <item>Bài 37: Bruă mơnuă</item>
+        <item>Bài 38: Blơi pơ drô</item>
+        <item>Bài 39: Ano# yua rô pơdiăng</item>
+        <item>Bài 40: Bwp bai am^ ama ]ơđai</item>
+        <item>Bài 41: Nao ]u sang an o# ]ơ đai hrăm</item>
+        <item>Bài 42: Iâopơthưr ]ơđai nao pơ sang hră</item>
+        <item>Bài 43: }ư\ dlai, anih anom jum dar</item>
+        <item>Bài 44: Rơnak pơgang anih anom jum dar</item>
+        <item>Bài 45: Anih anom hiam dlăng ngui</item>
+        <item>Bài 46: Kru rơnam đưm hơđap</item>
+        <item>Bài 47: Plơi pla pơlih phrâo</item>
+    </string-array>
+    <string-array name="listUnitsVN">
+        <item>Làm quen</item>
+        <item>Số đếm</item>
+        <item>Điểm danh</item>
+        <item>Đồ dùng học tập</item>
+        <item>Hoạt động trong lớp </item>
+        <item>Hoạt động học tập</item>
+        <item>Vệ sinh lớp học</item>
+        <item>Trang phục</item>
+        <item>Điểm, kết quả học tập</item>
+        <item>Ý thức học tập</item>
+        <item>Dặn dò</item>
+        <item>Thời gian</item>
+        <item>Tự học</item>
+        <item>Vệ sinh cá nhân</item>
+        <item>Vệ sinh phòng ở</item>
+        <item>Thể dục</item>
+        <item>Thể thao</item>
+        <item>Vui chơi</item>
+        <item>Ăn uống</item>
+        <item>Vệ sinh ăn uống</item>
+        <item>Văn nghệ</item>
+        <item>Nhạc cụ</item>
+        <item>Chăm sóc sân trường</item>
+        <item>Rau quả</item>
+        <item>Chăn nuôi</item>
+        <item>Sức khỏe</item>
+        <item>Cách phòng bệnh</item>
+        <item>Phòng tránh các tệ nạn xã hội</item>
+        <item>Phòng tránh thương tích, đuối nước</item>
+        <item>Thực hiện nội qui</item>
+        <item>Thời tiết và khí hậu</item>
+        <item>Mùa</item>
+        <item>Tên một số cây trồng</item>
+        <item>Lễ tục</item>
+        <item>Nhà sàn người Jrai</item>
+        <item>Phong tục</item>
+        <item>Nghề nghiệp</item>
+        <item>Mua bán</item>
+        <item>Phương tiện giao thông</item>
+        <item>Gặp gỡ phụ huynh</item>
+        <item>Thăm gia đình học sinh</item>
+        <item>Vận động học sinh đến trường</item>
+        <item>Thiên nhiên, môi trường</item>
+        <item>Bảo vệ môi trường</item>
+        <item>Danh lam thắng cảnh</item>
+        <item>Di tích lịch sử</item>
+        <item>Quê hương đổi mới</item>
+    </string-array>
+</resources>
